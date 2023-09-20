@@ -4,7 +4,8 @@
 	display:flex;
 	justify-content:center;
 	align-item:center;
-	flex-wrap:wrap;
+	width: 100vw;
+   height: 100vh;
 }
 .item-1{
 	width:100px;
